@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092449530297",
+    "project_id": "neokart-636e1",
+    "storage_bucket": "neokart-636e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092449530297:android:8f91016d442acf64988668",
+        "android_client_info": {
+          "package_name": "com.example.neokart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092449530297-1i7gpf2tp41sr1msrj0nlgpbqblh0d3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkMOhjeqUN8dtd8EPR6lIewrsS0T6wL5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092449530297-1i7gpf2tp41sr1msrj0nlgpbqblh0d3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
